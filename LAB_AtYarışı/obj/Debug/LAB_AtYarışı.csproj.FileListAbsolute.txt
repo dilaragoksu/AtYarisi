@@ -1,0 +1,11 @@
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\bin\Debug\LAB_AtYarışı.exe.config
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\bin\Debug\LAB_AtYarışı.exe
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\bin\Debug\LAB_AtYarışı.pdb
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.Form1.resources
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.Properties.Resources.resources
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.exe
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.pdb
+C:\Users\Section1\Desktop\Yazılım\Lab\LAB_AtYarışı\LAB_AtYarışı\obj\Debug\LAB_AtYarışı.Form2.resources
